@@ -39,4 +39,29 @@
 根据截止2025年3月30日最新的安排和敬拜值班表，在每个人在一个季度内会有<b>2-3次</b>的当值日（除特殊情况）。
 
 
+<a id = "hdwareInit"></a> <br>
+ ## 硬件介绍
 
+<a id = "sftwareInit"></a> <br>
+ ## 软件介绍
+
+<a id = "hdwareMgmt"></a> <br>
+ ## 硬件管理
+
+<a id = "sftwareMgmt"></a> <br>
+ ## 软件管理
+
+<a id = "workProc"></a> <br>
+ ## 工作流程
+
+ <a id = "noobGL"></a> <br>
+ ## 简化指南（新手）
+
+<a id = "fAQ"></a> <br>
+ ## 常见问题
+
+<a id = "pS"></a> <br>
+ ## 后记
+
+<a id = "aPP"></a> <br>
+ ## 附件
