@@ -20,23 +20,31 @@
 
 ## 目录
 
-* <font size = 4> [当值规定](#dutyReg) </font>
-* <font size = 4> [硬件介绍](#hdwareInit) </font>
-* <font size = 4> [软件介绍](#sftwareInit) </font>
-* <font size = 4> [硬件管理](#hdwareMgmt) </font>
-* <font size = 4> [软件管理](#sftwareMgmt) </font>
-* <font size = 4> [工作流程](#workProc) </font>
-* <font size = 4> [简化指南（新手）](#noobGL) </font>
-* <font size = 4> [常见问题](#fAQ) </font>
-* <font size = 4> [后记](#pS) </font>
-* <font size = 4> [附件](#aPP) </font>
-<br><br><br><br>
+* <font size = 5> [轮值规定](#dutyReg) </font><br><br>
+* <font size = 5> [硬件介绍](#hdwareInit) </font><br><br>
+* <font size = 5> [软件介绍](#sftwareInit) </font><br><br>
+* <font size = 5> [硬件管理](#hdwareMgmt) </font><br><br>
+* <font size = 5> [软件管理](#sftwareMgmt) </font><br><br>
+* <font size = 5> [工作流程](#workProc) </font><br><br>
+* <font size = 5> [简化指南（新手）](#noobGL) </font><br><br>
+* <font size = 5> [常见问题](#fAQ) </font><br><br>
+* <font size = 5> [后记](#pS) </font><br><br>
+* <font size = 5> [附件](#aPP) </font>
+
 
 
 <a id = "dutyReg"></a> <br>
- ## 当值规定
-<br>
+ 
+ ## 轮值规定
+
+### 轮值日期
+
 根据截止2025年3月30日最新的安排和敬拜值班表，在每个人在一个季度内会有<b>2-3次</b>的当值日（除特殊情况）。
+<br><br>
+我们不想让所有的人员因为当值次数太多而讨厌为上帝和教会做事工，所以我们会尽可能把日期分开安排，给予所有人员适当的休息时间。
+
+### 轮值内容
+
 
 
 <a id = "hdwareInit"></a> <br>
