@@ -21,13 +21,17 @@
 ## 目录
 
 * <font size = 5> [轮值规定](#dutyReg) </font><br><br>
-* <font size = 5> [硬件介绍](#hdwareInit) </font><br><br>
-* <font size = 5> [软件介绍](#sftwareInit) </font><br><br>
-* <font size = 5> [硬件管理](#hdwareMgmt) </font><br><br>
-* <font size = 5> [软件管理](#sftwareMgmt) </font><br><br>
+<!-- 轮值规定：解释轮值日期安排和出勤规定。 -->
+* <font size = 5> [硬件相关](#hdwareRel) </font><br><br>
+<!-- 硬件相关：介绍后台硬件名称和功能，以及如何妥善保存和维护硬件，避免误操作导致的问题。-->
+* <font size = 5> [软件相关](#sftwareRel) </font><br><br>
+<!-- 软件相关：介绍后台软件名称和功能，以及如何正确使用软件，避免误操作导致的问题。 -->
 * <font size = 5> [工作流程](#workProc) </font><br><br>
-* <font size = 5> [简化指南（新手）](#noobGL) </font><br><br>
+<!-- 工作流程：详细介绍工作的每一个步骤，按照时间排序。 -->
+* <font size = 5> [简化流程（新手）](#noobProc) </font><br><br>
+<!-- 简化指南（新手）：简略介绍工作步骤，按照时间排序。 -->
 * <font size = 5> [常见问题](#fAQ) </font><br><br>
+<!-- 常见问题：常见的各种问题，包括硬件（容易误触的地方），软件（误操作导致软件崩溃）。 -->
 * <font size = 5> [后记](#pS) </font><br><br>
 * <font size = 5> [附件](#aPP) </font>
 
@@ -35,7 +39,7 @@
 
 <a id = "dutyReg"></a> <br>
  
- ## 轮值规定
+## 轮值规定
 
 ### 轮值日期
 
@@ -47,7 +51,7 @@
 
 #### 《本周安息日<font size="5">前</font>（准备阶段）》
 
-每周的当值人员需要在 **周四** 之前完成PPT的预备工作，包括且不止于以下：
+每周的当值人员需要在 **周四** 之前完成PPT的预备工作，包括且不止以下：
 - 在 **Presenter 软件** 中，创建新的本周的PPT流程文件。
     - 名称根据那一周的日期命名。
     - 可以复制上一周的PPT流程文件。
@@ -61,6 +65,7 @@
 以下环节并非每周都会有，当值人员需要去与相关人员沟通确认是否有这些环节：
 <br>
 &emsp;*截止2025年4月4日的安排*
+
 - **特别音乐**：请与 **昌鼎伦(Jackson)** 联系
 - **联合安息日学音乐**： 请与 **朱桂芳长老(Elder Esther)** 联系
 - **洗礼仪式**：请与 **范少清教士(Pastor Fam)** 联系
@@ -68,31 +73,28 @@
 - **特别节目**：请与 **范少清教士(Pastor Fam)** 联系
 
 <br>
-<font size="3">关于 **Presenter 软件** 里的详细功能介绍在《软件管理》</font>
-
+<font size="3">关于 <b>Presenter</b> 软件 里的详细功能介绍在 <font size="4">《软件相关》</font></font>
 
 #### 《本周安息日<font size="5">时</font>（施行阶段）》
 
-当值人员需要在 **”8:45AM”** 之前到达教堂并且 *启动和准备设备*。
+当值人员需要在 **“8:45AM”** 之前到达教堂并且 *启动和准备设备*，包括且不止以下：
+- 完成 **Presenter 软件** 的 *设置和部署*。
+- *启动* **投影以及电视 设备**。
+- 与 **敬拜团队** 完成 *沟通和最后检查*。
+- 
 
 
-<a id = "hdwareInit"></a> <br>
- ## 硬件介绍
+<a id = "hdwareRel"></a> <br>
+ ## 硬件相关
 
-<a id = "sftwareInit"></a> <br>
- ## 软件介绍
+<a id = "sftwareRel"></a> <br>
+ ## 软件相关
 
-<a id = "hdwareMgmt"></a> <br>
- ## 硬件管理
-
-<a id = "sftwareMgmt"></a> <br>
- ## 软件管理
+ <a id = "noobProc"></a> <br>
+ ## 简化流程（新手）
 
 <a id = "workProc"></a> <br>
  ## 工作流程
-
- <a id = "noobGL"></a> <br>
- ## 简化指南（新手）
 
 <a id = "fAQ"></a> <br>
  ## 常见问题
